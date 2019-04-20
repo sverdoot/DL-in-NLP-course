@@ -11,27 +11,6 @@ Neural Networks. The goals of this assignment are as follows:
 - understand and implement both Vanilla RNNs and Long-Short Term Memory (LSTM) networks
 
 
-## Setup
-Get the code as a zip file at the channel.
-
-You can follow the setup instructions [here](http://cs231n.github.io/setup-instructions/). This is Stanford cs231n tutorial, unfortunately in this course you won't have extra $100 for your Google Cloud, but you still will have $300 free credit for sign up.
-
-### Download data:
-Once you have the starter code, you will need to download the CIFAR-10 dataset.
-Run the following from the `backpropagation_workshop` directory:
-
-```bash
-cd cs231n/datasets
-./get_datasets.sh
-```
-
-### Start IPython:
-After you have the CIFAR-10 data, you should start the IPython notebook server from the
-`backpropagation_workshop` directory, with the `jupyter notebook` command. (See the [Google Cloud Tutorial](http://cs231n.github.io/gce-tutorial/) for any additional steps you may need to do for setting this up, if you are working remotely).
-
-### Some Notes
-**NOTE:** This year, the `backpropagation_workshop` code has been tested to be compatible with python version `3.6` (it may work with other versions of `3.x`, but we won't be officially supporting them). You will need to make sure that during your virtual environment setup that the correct version of `python` is used. You can confirm your python version by (1) activating your virtualenv and (2) running `which python`.
-
 ### Task 1: Softmax
 The IPython Notebook softmax.ipynb will walk you through implementing linear classifier.
 
