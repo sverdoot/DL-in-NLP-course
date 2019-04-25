@@ -41,29 +41,5 @@ This task is fully optional and has no deadline.
 In the IPython notebook `task7_LayerNormalization.ipynb` you will implement batch
 normalization and layer normalization, and use them to train deep fully-connected networks.
 
-### Submitting your work and grade others
-
-Submit your work via Telegram @peer_review_bot
-
-Example of task submission command:
-```/send_task 2.1```
-
-Where 2.1 is workshop_number.task_number.
-
-After that, drop **one** task file. In the case of this workshop, zip and send one notebook (corresponding to the task number)
-and cs231n directory with necessary for the task files.
-
-After you submit the task, you need to check at least two other solutions. To get them use command
-```/get_task 2.1 @username```
-
-Where @username is telegram username of one you should grade.
-
-After that, you should contact @username and to check the task in person (on in a call). To send your grade, use the command
-```/grade 2.1 @username 8```
-
-Where 8 is a scaled [0, 10] grade of that task.
-
-**Important:** _Please make sure that the submitted notebooks have been run and the cell outputs are visible._
-
 
 Credit: [cs231n.stanford.edu](http://cs231n.stanford.edu)
