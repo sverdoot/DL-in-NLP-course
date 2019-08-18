@@ -2,4 +2,4 @@
 
 Here you can find homeworks and stuff on the corse "DL in NLP" course by IPavlov & SDA based on the **Standford** course **CS224N**.
 
-Please use https://nbviewer.jupyter.org/github/sverdoot in case of you are getting problems with rendering .ipynb files, it is free, convinient and doesn't require installing anything. 
+Please use https://nbviewer.jupyter.org/github/sverdoot in case of you have problems with rendering .ipynb files. 
